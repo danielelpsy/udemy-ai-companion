@@ -22,9 +22,6 @@ git clone https://github.com/danielelpsy/udemy-ai-companion.git
 2. Enable **Developer Mode** (toggle in the top right corner).
 3. Click **Load unpacked** and select the project folder.
 
-## Screenshots
-![Screenshot](src/assets/screenshot.png)
-
 ## Contributing
 Contributions are welcome! To contribute:
 1. Fork this repository.
