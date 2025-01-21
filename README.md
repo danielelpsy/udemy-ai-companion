@@ -1,6 +1,11 @@
 
 # Udemy AI Companion
 
+
+https://github.com/user-attachments/assets/20dbefc7-ce21-472f-898d-a811dcc734be
+
+
+
 **Udemy AI Companion** is a Chrome extension designed to enhance your Udemy learning experience using the power of AI. It provides tools to generate summaries, quizzes, and flashcards, along with an AI-powered chat assistant for personalized learning.
 
 ## Features
