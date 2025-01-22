@@ -27,6 +27,21 @@ git clone https://github.com/danielelpsy/udemy-ai-companion.git
 2. Enable **Developer Mode** (toggle in the top right corner).
 3. Click **Load unpacked** and select the project folder.
 
+## Setting Up Your OpenAI API Key
+This extension requires an OpenAI API Key to access AI-powered features. Follow these steps to get and set up your API Key:
+
+## Step 1: Get Your OpenAI API Key
+Go to the OpenAI API Keys Page.
+Sign in or create an account if you don't already have one.
+Click Create new secret key to generate a new API Key.
+Copy the generated API Key (e.g., sk-...).
+
+## Step 2: Add the API Key to the Extension
+Open the extension popup.
+Click on the Settings link at the bottom of the popup.
+Paste your OpenAI API Key into the provided input field.
+Click Save to store the API Key securely.
+
 ## Contributing
 Contributions are welcome! To contribute:
 1. Fork this repository.
