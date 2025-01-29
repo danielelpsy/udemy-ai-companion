@@ -16,6 +16,10 @@ https://github.com/user-attachments/assets/20dbefc7-ce21-472f-898d-a811dcc734be
 
 ## Installation
 
+you can download the extension here: https://chromewebstore.google.com/detail/udemy-ai-companion/aikochbgjfmeiccocianinmffgjghffp
+
+or:
+
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 ```bash
